@@ -1,3 +1,3 @@
 <x-app-layout title="Gallery">
-    Ini halaman gallery
+    Gallery
 </x-app-layout>

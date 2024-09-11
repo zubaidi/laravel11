@@ -1,3 +1,5 @@
 <x-app-layout title="About">
-    Ini halaman about
+    <x-slot name="heading">
+        About
+    </x-slot>
 </x-app-layout>

@@ -1,3 +1,5 @@
 <x-app-layout title="Dashboard">
-  Ini halaman dashboard
+  <x-slot name="heading">
+    Dashboard
+  </x-slot>
 </x-app-layout>
